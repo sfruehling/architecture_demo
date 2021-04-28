@@ -2,6 +2,7 @@ package de.andrena.architecturedemo.persistence.privilege;
 
 import de.andrena.architecturedemo.domain.privilege.Privilege;
 import de.andrena.architecturedemo.persistence.exception.EntityNotFoundException;
+import de.andrena.architecturedemo.persistence.exception.IdAlreadyInUseException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentCaptor;

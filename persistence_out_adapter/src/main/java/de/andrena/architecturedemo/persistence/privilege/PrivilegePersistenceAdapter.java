@@ -3,6 +3,7 @@ package de.andrena.architecturedemo.persistence.privilege;
 import de.andrena.architecturedemo.domain.privilege.Privilege;
 import de.andrena.architecturedemo.domain.privilege.out.PrivilegePersistencePort;
 import de.andrena.architecturedemo.persistence.exception.EntityNotFoundException;
+import de.andrena.architecturedemo.persistence.exception.IdAlreadyInUseException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

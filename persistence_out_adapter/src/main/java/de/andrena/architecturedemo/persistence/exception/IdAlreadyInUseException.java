@@ -1,4 +1,4 @@
-package de.andrena.architecturedemo.persistence.privilege;
+package de.andrena.architecturedemo.persistence.exception;
 
 import de.andrena.architecturedemo.domain.exception.DatabaseException;
 

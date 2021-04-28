@@ -2,6 +2,7 @@ package de.andrena.architecturedemo.persistence.privilege;
 
 import de.andrena.architecturedemo.domain.privilege.Privilege;
 import de.andrena.architecturedemo.persistence.WithArchitectureDemoPostgresTestContainer;
+import de.andrena.architecturedemo.persistence.exception.IdAlreadyInUseException;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package de.andrena.architecturedemo.persistence.role;
 
-import de.andrena.architecturedemo.persistence.privilege.IdAlreadyInUseException;
+import de.andrena.architecturedemo.persistence.exception.IdAlreadyInUseException;
 import de.andrena.architecturedemo.domain.privilege.Privilege;
 import de.andrena.architecturedemo.domain.role.Role;
 import de.andrena.architecturedemo.domain.role.out.RolePersistencePort;
