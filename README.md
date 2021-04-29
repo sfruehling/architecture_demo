@@ -20,6 +20,9 @@ Alle Klassen sind jedoch in einem Paket `de.andrena.basepackage` im Modul `domai
 4) Entspricht der VersionEndpoint der Hexagonalen Architektur? Warum? Wie müsste man die Applikation ändern?
 5) Welche Aufgabe können Interfaces haben? Welche haben sie in diesem Projekt?
 
+### Feedback
+1) Lauffähig wäre schön, mind. lauffähige Tests
+2) Den hexagonalen Ansatz sieht man nur bedingt. Besser wären mehrere Adapter (z.B. Excel-Export, Trigger,...)
 
 
 
